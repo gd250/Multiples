@@ -7,6 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EEC203091D2D343700707E24 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = EEC202FE1D2D343700707E24 /* LICENSE.txt */; };
+		EEC2030A1D2D343700707E24 /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EEC202FF1D2D343700707E24 /* OpenSans-Bold.ttf */; };
+		EEC2030B1D2D343700707E24 /* OpenSans-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EEC203001D2D343700707E24 /* OpenSans-BoldItalic.ttf */; };
+		EEC2030C1D2D343700707E24 /* OpenSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EEC203011D2D343700707E24 /* OpenSans-ExtraBold.ttf */; };
+		EEC2030D1D2D343700707E24 /* OpenSans-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EEC203021D2D343700707E24 /* OpenSans-ExtraBoldItalic.ttf */; };
+		EEC2030E1D2D343700707E24 /* OpenSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EEC203031D2D343700707E24 /* OpenSans-Italic.ttf */; };
+		EEC2030F1D2D343700707E24 /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EEC203041D2D343700707E24 /* OpenSans-Light.ttf */; };
+		EEC203101D2D343700707E24 /* OpenSans-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EEC203051D2D343700707E24 /* OpenSans-LightItalic.ttf */; };
+		EEC203111D2D343700707E24 /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EEC203061D2D343700707E24 /* OpenSans-Regular.ttf */; };
+		EEC203121D2D343700707E24 /* OpenSans-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EEC203071D2D343700707E24 /* OpenSans-Semibold.ttf */; };
+		EEC203131D2D343700707E24 /* OpenSans-SemiboldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EEC203081D2D343700707E24 /* OpenSans-SemiboldItalic.ttf */; };
+		EEC2031A1D2FC10000707E24 /* Reliable Mens And Womens Converse All Star Shoes White For Sale_LRG.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EEC203141D2FC10000707E24 /* Reliable Mens And Womens Converse All Star Shoes White For Sale_LRG.jpg */; };
+		EEC2031B1D2FC10000707E24 /* 3917488_1007.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EEC203151D2FC10000707E24 /* 3917488_1007.jpg */; };
+		EEC2031C1D2FC10000707E24 /* img-thing.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = EEC203161D2FC10000707E24 /* img-thing.jpeg */; };
+		EEC2031D1D2FC10000707E24 /* images.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = EEC203171D2FC10000707E24 /* images.jpeg */; };
+		EEC2031E1D2FC10000707E24 /* 1588_rsmall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EEC203181D2FC10000707E24 /* 1588_rsmall.jpg */; };
+		EEC2031F1D2FC10000707E24 /* ac32483cdcbd7ea.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EEC203191D2FC10000707E24 /* ac32483cdcbd7ea.jpg */; };
 		EEF540391D2D2B9B00E7E22F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEF540381D2D2B9B00E7E22F /* AppDelegate.swift */; };
 		EEF5403B1D2D2B9B00E7E22F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEF5403A1D2D2B9B00E7E22F /* ViewController.swift */; };
 		EEF5403E1D2D2B9B00E7E22F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEF5403C1D2D2B9B00E7E22F /* Main.storyboard */; };
@@ -15,6 +32,23 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EEC202FE1D2D343700707E24 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		EEC202FF1D2D343700707E24 /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Bold.ttf"; sourceTree = "<group>"; };
+		EEC203001D2D343700707E24 /* OpenSans-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-BoldItalic.ttf"; sourceTree = "<group>"; };
+		EEC203011D2D343700707E24 /* OpenSans-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-ExtraBold.ttf"; sourceTree = "<group>"; };
+		EEC203021D2D343700707E24 /* OpenSans-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		EEC203031D2D343700707E24 /* OpenSans-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Italic.ttf"; sourceTree = "<group>"; };
+		EEC203041D2D343700707E24 /* OpenSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Light.ttf"; sourceTree = "<group>"; };
+		EEC203051D2D343700707E24 /* OpenSans-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-LightItalic.ttf"; sourceTree = "<group>"; };
+		EEC203061D2D343700707E24 /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Regular.ttf"; sourceTree = "<group>"; };
+		EEC203071D2D343700707E24 /* OpenSans-Semibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Semibold.ttf"; sourceTree = "<group>"; };
+		EEC203081D2D343700707E24 /* OpenSans-SemiboldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-SemiboldItalic.ttf"; sourceTree = "<group>"; };
+		EEC203141D2FC10000707E24 /* Reliable Mens And Womens Converse All Star Shoes White For Sale_LRG.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Reliable Mens And Womens Converse All Star Shoes White For Sale_LRG.jpg"; sourceTree = "<group>"; };
+		EEC203151D2FC10000707E24 /* 3917488_1007.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3917488_1007.jpg; sourceTree = "<group>"; };
+		EEC203161D2FC10000707E24 /* img-thing.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "img-thing.jpeg"; sourceTree = "<group>"; };
+		EEC203171D2FC10000707E24 /* images.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images.jpeg; sourceTree = "<group>"; };
+		EEC203181D2FC10000707E24 /* 1588_rsmall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1588_rsmall.jpg; sourceTree = "<group>"; };
+		EEC203191D2FC10000707E24 /* ac32483cdcbd7ea.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ac32483cdcbd7ea.jpg; sourceTree = "<group>"; };
 		EEF540351D2D2B9B00E7E22F /* MultiplesEX.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MultiplesEX.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEF540381D2D2B9B00E7E22F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EEF5403A1D2D2B9B00E7E22F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -35,11 +69,36 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		EEC202FD1D2D343700707E24 /* Open_Sans */ = {
+			isa = PBXGroup;
+			children = (
+				EEC203141D2FC10000707E24 /* Reliable Mens And Womens Converse All Star Shoes White For Sale_LRG.jpg */,
+				EEC203151D2FC10000707E24 /* 3917488_1007.jpg */,
+				EEC203161D2FC10000707E24 /* img-thing.jpeg */,
+				EEC203171D2FC10000707E24 /* images.jpeg */,
+				EEC203181D2FC10000707E24 /* 1588_rsmall.jpg */,
+				EEC203191D2FC10000707E24 /* ac32483cdcbd7ea.jpg */,
+				EEC202FE1D2D343700707E24 /* LICENSE.txt */,
+				EEC202FF1D2D343700707E24 /* OpenSans-Bold.ttf */,
+				EEC203001D2D343700707E24 /* OpenSans-BoldItalic.ttf */,
+				EEC203011D2D343700707E24 /* OpenSans-ExtraBold.ttf */,
+				EEC203021D2D343700707E24 /* OpenSans-ExtraBoldItalic.ttf */,
+				EEC203031D2D343700707E24 /* OpenSans-Italic.ttf */,
+				EEC203041D2D343700707E24 /* OpenSans-Light.ttf */,
+				EEC203051D2D343700707E24 /* OpenSans-LightItalic.ttf */,
+				EEC203061D2D343700707E24 /* OpenSans-Regular.ttf */,
+				EEC203071D2D343700707E24 /* OpenSans-Semibold.ttf */,
+				EEC203081D2D343700707E24 /* OpenSans-SemiboldItalic.ttf */,
+			);
+			path = Open_Sans;
+			sourceTree = "<group>";
+		};
 		EEF5402C1D2D2B9B00E7E22F = {
 			isa = PBXGroup;
 			children = (
 				EEF540371D2D2B9B00E7E22F /* MultiplesEX */,
 				EEF540361D2D2B9B00E7E22F /* Products */,
+				EEC202FD1D2D343700707E24 /* Open_Sans */,
 			);
 			sourceTree = "<group>";
 		};
@@ -122,9 +181,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EEC2030E1D2D343700707E24 /* OpenSans-Italic.ttf in Resources */,
+				EEC2030B1D2D343700707E24 /* OpenSans-BoldItalic.ttf in Resources */,
+				EEC203091D2D343700707E24 /* LICENSE.txt in Resources */,
+				EEC203121D2D343700707E24 /* OpenSans-Semibold.ttf in Resources */,
+				EEC2030C1D2D343700707E24 /* OpenSans-ExtraBold.ttf in Resources */,
 				EEF540431D2D2B9C00E7E22F /* LaunchScreen.storyboard in Resources */,
+				EEC203101D2D343700707E24 /* OpenSans-LightItalic.ttf in Resources */,
 				EEF540401D2D2B9B00E7E22F /* Assets.xcassets in Resources */,
+				EEC2030A1D2D343700707E24 /* OpenSans-Bold.ttf in Resources */,
+				EEC2031A1D2FC10000707E24 /* Reliable Mens And Womens Converse All Star Shoes White For Sale_LRG.jpg in Resources */,
 				EEF5403E1D2D2B9B00E7E22F /* Main.storyboard in Resources */,
+				EEC2031D1D2FC10000707E24 /* images.jpeg in Resources */,
+				EEC203131D2D343700707E24 /* OpenSans-SemiboldItalic.ttf in Resources */,
+				EEC2031E1D2FC10000707E24 /* 1588_rsmall.jpg in Resources */,
+				EEC2030F1D2D343700707E24 /* OpenSans-Light.ttf in Resources */,
+				EEC2031F1D2FC10000707E24 /* ac32483cdcbd7ea.jpg in Resources */,
+				EEC203111D2D343700707E24 /* OpenSans-Regular.ttf in Resources */,
+				EEC2031C1D2FC10000707E24 /* img-thing.jpeg in Resources */,
+				EEC2031B1D2FC10000707E24 /* 3917488_1007.jpg in Resources */,
+				EEC2030D1D2D343700707E24 /* OpenSans-ExtraBoldItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +362,7 @@
 				EEF540491D2D2B9C00E7E22F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
